@@ -1,6 +1,6 @@
 import React from 'react'
 import { Navigate, Route, Routes } from "react-router-dom"
-import Login from './components/ogin'
+import Login from './components/Login'
 import Signup from './components/Signup'
 import Home from './components/Home'
 import { Toaster } from 'react-hot-toast';
