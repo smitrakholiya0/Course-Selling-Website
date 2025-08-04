@@ -1,6 +1,6 @@
 import React from 'react'
 import { Navigate, Route, Routes } from "react-router-dom"
-import Login from './components/Login'
+import Login from './components/ogin'
 import Signup from './components/Signup'
 import Home from './components/Home'
 import { Toaster } from 'react-hot-toast';
@@ -12,7 +12,7 @@ import CourseCreate from './admin/CourseCreate'
 import Dashboard from './admin/Dashboard'
 import OurCourse from './admin/OurCourse'
 import UpdateCourse from './admin/UpdateCourse'
-import AdminSignup from './admin/AdminSignUp'
+import AdminSignup from './admin/AdminSignup'
 
 const App = () => {
 
