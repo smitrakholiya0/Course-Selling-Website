@@ -1,8 +1,8 @@
 import React from 'react'
 import { Navigate, Route, Routes } from "react-router-dom"
-import Login from './components/login'
+import Login from './components/Login'
 import Signup from './components/Signup'
-import Home from './components/home'
+import Home from './components/Home'
 import { Toaster } from 'react-hot-toast';
 import Courses from './components/Courses'
 import Buy from './components/Buy'
